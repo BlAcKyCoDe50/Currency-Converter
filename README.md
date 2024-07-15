@@ -14,6 +14,7 @@ A simple currency converter application built using JavaScript, HTML, and CSS. T
 - **HTML**: For the structure of the application
 - **CSS**: For styling the application
 - **JavaScript**: For making API calls and handling the logic
+- **API**: https://app.currencyapi.com/
 
 ## Live Demo
 
