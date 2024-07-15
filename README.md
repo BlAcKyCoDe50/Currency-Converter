@@ -17,7 +17,8 @@ A simple currency converter application built using JavaScript, HTML, and CSS. T
 
 ## Live Demo
 
-You can view a live demo of the currency converter application [here](URL_TO_YOUR_DEPLOYED_APP).
+You can view a live demo of the currency converter application.
+https://currecny-converter.web.app/
 
 ## Getting Started
 
